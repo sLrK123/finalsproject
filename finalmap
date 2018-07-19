@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Saint William Cathedral",
-    "imageUrl": "finalsproject/st.william.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sLrK123/finalsproject/master/st.william.jpg",
     "price": 164,
     "priceCurrency": "PHP",
     "lat": 16.615768,
