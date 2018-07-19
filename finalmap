@@ -11,11 +11,11 @@
   {
     "id": 148,
     "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "imageUrl": "https://raw.githubusercontent.com/sLrK123/finalsproject/master/bahay%20ni%20dann.PNG",
+    "price": 1,000,000,
+    "priceCurrency": "PHP",
+    "lat": 16.617159,
+    "lng": 120.322971
   },
   {
     "id": 201,
