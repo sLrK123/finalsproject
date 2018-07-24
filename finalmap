@@ -1,17 +1,17 @@
 [
   {
     "id": 145,
-    "name": "Halo halo de iloko",
-    "imageUrl": "https://raw.githubusercontent.com/sLrK123/finalsproject/master/bahay%20ni%20dann.PNG",
-    "priceCurrency": "PHP",
-    "price": 8,000,000,
-    "lat": 16.617159,
-    "lng": 120.322971
+    "name": "  Halo halo de iloko ",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/1.jpg",
+    "priceCurrency": "₱",
+    "price": 120,
+    "lat": 16.6167,
+    "lng": 120.3197
   },
   {
     "id": 148,
     "name": "Pugad Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/2.jpg",
     "priceCurrency": "₱",
     "price": 200,
     "lat": 16.2833,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Bahay na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/3.jpg",
     "priceCurrency": "₱",
     "price": 50,
     "lat": 16.8472,
@@ -28,8 +28,9 @@
   },
   {
     "id": 205,
-    "name": "Marand Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place4.jpg",
+    "name": "Marand Resort.",
+    "name": "Description may pool po.",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/4.jpg",
     "priceCurrency": "₱",
     "price": 150,
     "lat": 16.5264,
@@ -38,7 +39,7 @@
   {
     "id": 210,
     "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/5.jpgg",
     "priceCurrency": "PHP",
     "price": 150,
     "lat": 16.3188,
@@ -47,7 +48,7 @@
   {
     "id": 211,
     "name": "Kahuna Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/6.jpg",
     "priceCurrency": "₱",
     "price": 200,
     "lat": 16.6583,
@@ -55,11 +56,11 @@
   },
     {
     "id": 211,
-    "name": "House",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place7.jpg",
+    "name": "House ko hihihi",
+    "imageUrl": "https://raw.githubusercontent.com/User052216/gmappic/master/bahayko.png",
     "priceCurrency": "₱",
     "price": 0,
-    "lat": 16.6167,
-    "lng": 120.3167
+    "lat": 16.546750,
+    "lng": 120.320285
   }
 ]
